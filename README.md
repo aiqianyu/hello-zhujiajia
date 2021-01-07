@@ -1,2 +1,2 @@
 # hello-zhujiajia
-read me everyone
+hi humans！
